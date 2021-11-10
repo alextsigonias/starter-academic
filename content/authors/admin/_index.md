@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a third-year PhD student at the [Technical University of Munich](https://www.tum.de/en/), advised by Prof. [Andreas S. Schulz](https://www.or.tum.de/en/group/andreasschulz/) and co-advised by Prof. [Martin Bichler](https://dss.in.tum.de/staff/bichler.html). I am a member of the [Operations Research Group](https://www.or.tum.de/en/home/) and the interdisciplinary research group [Advanced Optimization in a Networked Economy (AdONE)](https://www.gs.tum.de/en/adone/overview/). Before that, I received my Diploma from the National Technical University of Athens, where I was advised by Prof. [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/). In Fall 2019 I visited the Universidad de Chile in Santiago, where I was hosted by Prof. [José Correa](https://www.dii.uchile.cl/~jcorrea/).
+I am a fourth-year PhD student at the [Technical University of Munich](https://www.tum.de/en/), advised by Prof. [Andreas S. Schulz](https://www.or.tum.de/en/group/andreas-s-schulz/) and co-advised by Prof. [Martin Bichler](https://dss.in.tum.de/staff/bichler.html). I am a member of the [Operations Research Group](https://www.or.tum.de/en/home/) and the interdisciplinary research group [Advanced Optimization in a Networked Economy (AdONE)](https://www.gs.tum.de/en/adone/start/). Before that, I received my Diploma from the National Technical University of Athens, where I was advised by Prof. [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/). In Fall 2019 I visited the Universidad de Chile in Santiago, where I was hosted by Prof. [José Correa](https://www.dii.uchile.cl/~jcorrea/).
 
 
 
