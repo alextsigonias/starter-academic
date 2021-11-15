@@ -10,7 +10,7 @@ headless: true
 weight: 35
 
 # Section title
-title: Teaching
+title: Teaching / Supervision
 
 # Section subtitle
 subtitle:
