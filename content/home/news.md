@@ -17,4 +17,4 @@ subtitle:
   #columns: '1'
 ---
 
-* **[October 2021]** I will present our work on [The Secretary Problem with Independent Sampling](https://arxiv.org/abs/2011.07869) at the INFORMS Annual Meeting.
+* **[October 2021]** I will present our work on [The Secretary Problem with Independent Sampling](https://arxiv.org/abs/2011.07869) at the INFORMS Annual Meeting (VTA21, 26/10 at 6AM PT).
