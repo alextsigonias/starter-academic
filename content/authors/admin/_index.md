@@ -6,12 +6,12 @@ title: Alexandros Tsigonias-Dimitriadis
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Computer Science
+role: PhD Student at [TUM](https://www.tum.de/en/)
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: TU Munich
-  url: https://www.tum.de/en/
+#organizations:
+#- name: TU Munich
+#  url: https://www.tum.de/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include algorithmic game theory, mechanism design and online optimization.

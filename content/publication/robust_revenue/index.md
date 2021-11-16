@@ -13,6 +13,10 @@ date: "2020-12-11T00:00:00Z"
 links:
  - name: arXiv
    url: https://arxiv.org/abs/1907.04220
+ - name: slides
+   url: uploads/WINE2020_slides.pdf
+ - name: video
+   url: https://www.youtube.com/watch?v=PjevsyhUBzs&ab_channel=CenteronFrontiersofComputingStudies%2CPKU
 doi: "10.1007/978-3-030-64946-3_13"
 
 

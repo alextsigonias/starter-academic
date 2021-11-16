@@ -15,6 +15,8 @@ date: "2021-01-08T00:00:00Z"
 links:
  - name: arXiv
    url: https://arxiv.org/abs/2011.07869
+ - name: slides
+   url: uploads/INFORMS2021_slides.pdf
 doi: "10.1137/1.9781611976465.122"
 
 

@@ -17,4 +17,6 @@ subtitle:
   #columns: '1'
 ---
 
-* **[October 2021]** I will present our work on [The Secretary Problem with Independent Sampling](https://arxiv.org/abs/2011.07869) at the INFORMS Annual Meeting (VTA21, 26/10 at 6AM PT).
+* **[October 2021]** I will (virtually) present our work on [The Secretary Problem with Independent Sampling](https://arxiv.org/abs/2011.07869) at the INFORMS Annual Meeting (VTA21, 26/10 at 6AM PT).
+
+* **[September 2021]** I attended the [European Summer School](https://sites.google.com/a/diag.uniroma1.it/algadimar/european-summer-school-september-6-10-2021) on Learning in Games, Markets, and Online Decision Making.
