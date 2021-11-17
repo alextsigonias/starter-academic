@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 24
+weight: 25
 
-title:  Publications
+title: Working Papers
 subtitle: ''
 
 content:
@@ -25,7 +25,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: '1'
+    publication_type: '3'
     author: ''
     exclude_featured: false
 design:
