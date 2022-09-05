@@ -9,13 +9,11 @@ authors:
 - Diogo Poças
 - admin
 
-date: "2020-12-11T00:00:00Z"
+date: "2022-06-01T00:00:00Z"
 links:
- - name: slides
-   url: uploads/WINE2020_slides.pdf
- - name: video
-   url: https://www.youtube.com/watch?v=PjevsyhUBzs&ab_channel=CenteronFrontiersofComputingStudies%2CPKU
-doi: "10.1007/978-3-030-64946-3_13"
+   - name: arXiv
+     url: https://arxiv.org/abs/1907.04220
+doi: "10.1145/3546606"
 
 
 
@@ -26,11 +24,11 @@ doi: "10.1007/978-3-030-64946-3_13"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Extended abstract in the  *16th Conference on Web and Internet Economics* **(WINE '20)**
-publication_short: Extended abstract in the  *16th Conference on Web and Internet Economics* **(WINE '20)**
+publication: ACM Transactions on Economics and Computation **(ACM TEAC)**, Forthcoming
+publication_short: Forthcoming, *ACM Transactions on Economics and Computation* **(ACM TEAC)**
 
 abstract:
 

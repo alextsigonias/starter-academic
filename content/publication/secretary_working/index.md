@@ -1,19 +1,20 @@
 ---
-title: "The Secretary Problem with Independent Sampling"
+title: "Prophet Inequalities via the Expected Competitive Ratio"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- José Correa
-- Andrés Cristi
-- Laurent Feuilloley
-- Tim Oosterwijk
+- Tomer Ezra
+- Stefano Leonardi
+- Rebecca Reiffenhäuser
+- Matteo Russo
 - admin
 
-date: "2021-11-15T00:00:00Z"
+date: "2022-09-05T00:00:00Z"
 links:
-
+   - name: arXiv
+     url: https://arxiv.org/abs/2207.03361
 
 
 # Schedule page publish date (NOT publication's date).
@@ -26,8 +27,8 @@ links:
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication:
-publication_short: Journal version under major revision
+publication: Submitted
+publication_short: Submitted
 
 abstract:
 

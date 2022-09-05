@@ -1,17 +1,18 @@
 ---
-title: "Robust Revenue Maximization Under Minimal Statistical Information"
+title: "The Secretary Problem with Independent Sampling"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yiannis Giannakopoulos
-- Diogo Poças
+- José Correa
+- Andrés Cristi
+- Laurent Feuilloley
+- Tim Oosterwijk
 - admin
 
-date: "2021-09-15T00:00:00Z"
+date: "2022-09-05T00:00:00Z"
 links:
-
 
 
 
@@ -26,7 +27,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication:
-publication_short: Journal version under review
+publication_short: Major Revision, *Management Science*
 
 abstract:
 
@@ -40,7 +41,7 @@ publications: true
 
 # Custom links (uncomment lines below)
 
-url_arXiv: 'usi'
+url_arXiv: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''

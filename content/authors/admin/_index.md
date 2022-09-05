@@ -6,7 +6,7 @@ title: Alexandros Tsigonias-Dimitriadis
 superuser: true
 
 # Role/position/tagline
-role: PhD Student at [TUM](https://www.tum.de/en/)
+role: ICMD PostDoc, [Universidad de Chile](https://ingenieria.uchile.cl/english)
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -20,11 +20,14 @@ bio: My research interests include algorithmic game theory, mechanism design and
 interests:
 - Economics and Computation
 - Mechanism Design
-- Online Optimization
+- Data-Driven Decision-Making
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Operations Research
+    institution: Technical University of Munich
+    year: 2022 
   - course: Diploma in Electrical and Computer Engineering
     institution: National Technical University of Athens
     year: 2018
@@ -54,9 +57,9 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/alexandros-tsigonias-dimitriadis-9b8525134/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -72,8 +75,10 @@ email: ""
 highlight_name: false
 ---
 
-I am a fourth-year PhD student at the [Technical University of Munich](https://www.tum.de/en/), advised by Prof. [Andreas S. Schulz](https://www.or.tum.de/en/group/andreas-s-schulz/) and co-advised by Prof. [Martin Bichler](https://dss.in.tum.de/staff/bichler.html). I am a member of the [Operations Research Group](https://www.or.tum.de/en/home/) and the interdisciplinary research group [Advanced Optimization in a Networked Economy (AdONE)](https://www.gs.tum.de/en/adone/start/). Before that, I received my Diploma from the National Technical University of Athens, where I was advised by Prof. [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/). In Fall 2019 I visited the Universidad de Chile in Santiago, where I was hosted by Prof. [José Correa](https://www.dii.uchile.cl/~jcorrea/).
+I am a postdoctoral researcher at the [Department of Industrial Engineering](https://www.dii.uchile.cl/english/) of the University of Chile hosted by Prof. [José Correa](https://www.dii.uchile.cl/~jcorrea/). I am a member of the [Information and Computation in Market Design (ICMD)](https://sites.google.com/view/anilloicmd/home?authuser=0) team. I recently obtained my PhD from the [School of Computation, Information and Technology](https://www.cit.tum.de/en/cit/home/) of the [Technical University of Munich](https://www.tum.de/en/). At TUM I was advised by Prof. [Andreas S. Schulz](https://www.ot.mgt.tum.de/en/or/group/andreas-s-schulz/) and was a member of the interdisciplinary research group [Advanced Optimization in a Networked Economy (AdONE)](https://www.gs.tum.de/en/adone/start/) and the [Operations Research Group](https://www.ot.mgt.tum.de/en/or/home/). Before that, I received my Diploma from the National Technical University of Athens, where I was advised by Prof. [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/). During my PhD I had the chance to visit the [University of Chile](https://www.uchile.cl/english) and the [Sapienza University of Rome](https://www.uniroma1.it/en).
 
 
 
-My research interests broadly lie at the intersection of Economics and Computation. My recent work has focused in (algorithmic) mechanism design and online algorithms. I am also interested in market design and various aspects of optimization and sequential decision-making.
+My research interests broadly lie at the intersection of Economics and Computation. My recent work has focused on (algorithmic) mechanism design and online decision-making. I am also interested in data-driven market design and optimization problems arising in applications of societal relevance.
+
+You can find a copy of my CV [here](uploads/CV.pdf) *(last update: Feb 2022)*.
