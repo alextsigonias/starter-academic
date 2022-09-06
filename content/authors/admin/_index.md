@@ -81,4 +81,4 @@ I am a postdoctoral researcher at the [Department of Industrial Engineering](htt
 
 My research interests broadly lie at the intersection of Economics and Computation. My recent work has focused on (algorithmic) mechanism design and online decision-making. I am also interested in data-driven market design and optimization problems arising in applications of societal relevance.
 
-You can find a copy of my CV [here](uploads/CV.pdf) *(last update: Feb 2022)*.
+You can find a copy of my CV [here](uploads/CV.pdf) *(last update: September 2022)*.
