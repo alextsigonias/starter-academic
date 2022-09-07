@@ -17,6 +17,8 @@ links:
    url: https://arxiv.org/abs/2011.07869
  - name: slides
    url: uploads/INFORMS2021_slides.pdf
+ - name: poster
+   url: uploads/poster_secretary.pdf
 doi: "10.1137/1.9781611976465.122"
 
 

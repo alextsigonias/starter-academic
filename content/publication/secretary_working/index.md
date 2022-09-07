@@ -15,7 +15,8 @@ date: "2022-09-05T00:00:00Z"
 links:
    - name: arXiv
      url: https://arxiv.org/abs/2207.03361
-
+   - name: slides
+     url: uploads/prophets_ACGO_08/22.pdf
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"

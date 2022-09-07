@@ -88,12 +88,12 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "alexandros.tsigonias@tum.de"
+email = "alexandrostsigdim@gmail.com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
- address = {street = "Chair of Operations Research, Karlstr. 45", city = "80333 Munich", region = "Germany", postcode = "", country = "Germany", country_code = ""}
+ address = {street = "Department of Industrial Engineering, Universidad de Chile, República 701", city = "Santiago", region = "Chile", postcode = "", country = "Chile", country_code = ""}
 
 
 # Geographic coordinates
