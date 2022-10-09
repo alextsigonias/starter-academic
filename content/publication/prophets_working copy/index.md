@@ -11,7 +11,7 @@ authors:
 - Tim Oosterwijk
 - admin
 
-date: "2022-09-05T00:00:00Z"
+date: "2022-10-01T00:00:00Z"
 links:
 
 
@@ -27,7 +27,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication:
-publication_short: Major Revision, *Management Science*
+publication_short: Under Review after Major Revision, *Management Science*
 
 abstract:
 

@@ -17,7 +17,7 @@ subtitle:
   #columns: '1'
 ---
 
-* **[August 2022]** I completed my PhD at TU Munich. Next, I will be moving to the University of Chile, where I will do a one-year postdoc working with Prof. [José Correa](https://www.dii.uchile.cl/~jcorrea/) and other mebers of the [ICMD team](https://sites.google.com/view/anilloicmd/home?authuser=0)!
+* **[August 2022]** I completed my PhD at TU Munich. Next, I will be moving to the University of Chile, where I will do a one-year postdoc working with Prof. [José Correa](https://www.dii.uchile.cl/~jcorrea/) and other members of the [ICMD team](https://sites.google.com/view/anilloicmd/home?authuser=0)!
 
 
 * **[July 2022]** Check out our new preprint on "[Prophet Inequalities via the Expected Competitive Ratio](https://arxiv.org/abs/2207.03361)".
@@ -31,4 +31,3 @@ subtitle:
 * **[October 2021]** I will (virtually) present our work on [The Secretary Problem with Independent Sampling](https://arxiv.org/abs/2011.07869) at the INFORMS Annual Meeting (VTA21, 26/10 at 6AM PT).
 
 * **[September 2021]** I attended the [European Summer School](https://sites.google.com/a/diag.uniroma1.it/algadimar/european-summer-school-september-6-10-2021) on Learning in Games, Markets, and Online Decision Making.
-

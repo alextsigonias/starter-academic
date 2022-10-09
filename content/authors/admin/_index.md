@@ -14,20 +14,20 @@ role: ICMD PostDoc, [Universidad de Chile](https://ingenieria.uchile.cl/english)
 #  url: https://www.tum.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include algorithmic game theory, mechanism design and online optimization.
+bio: My research interests include mechanism design, sequential decision-making, and algorithmic game theory.
 
 # Interests to show in About widget
 interests:
-- Economics and Computation
 - Mechanism Design
-- Data-Driven Decision-Making
+- Sequential Decision-Making
+- Pricing and Optimal Stopping
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Operations Research
     institution: Technical University of Munich
-    year: 2022 
+    year: 2022
   - course: Diploma in Electrical and Computer Engineering
     institution: National Technical University of Athens
     year: 2018
@@ -78,7 +78,6 @@ highlight_name: false
 I am a postdoctoral researcher at the [Department of Industrial Engineering](https://www.dii.uchile.cl/english/) of the University of Chile hosted by Prof. [José Correa](https://www.dii.uchile.cl/~jcorrea/). I am a member of the [Information and Computation in Market Design (ICMD)](https://sites.google.com/view/anilloicmd/home?authuser=0) team. I recently obtained my PhD from the [School of Computation, Information and Technology](https://www.cit.tum.de/en/cit/home/) of the [Technical University of Munich](https://www.tum.de/en/). At TUM I was advised by Prof. [Andreas S. Schulz](https://www.ot.mgt.tum.de/en/or/group/andreas-s-schulz/) and was a member of the interdisciplinary research group [Advanced Optimization in a Networked Economy (AdONE)](https://www.gs.tum.de/en/adone/start/) and the [Operations Research Group](https://www.ot.mgt.tum.de/en/or/home/). Before that, I received my Diploma from the National Technical University of Athens, where I was advised by Prof. [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/). During my PhD I had the chance to visit the [University of Chile](https://www.uchile.cl/english) and the [Sapienza University of Rome](https://www.uniroma1.it/en).
 
 
-
-My research interests broadly lie at the intersection of Economics and Computation. My recent work has focused on (algorithmic) mechanism design and online decision-making. I am also interested in data-driven market design and optimization problems arising in applications of societal relevance.
+ My current research is mainly on algorithmic mechanism design and sequential decision-making, with a focus on prophet inequalities and secretary problems. Very recently, I also got interested in algorithmic aspects of electoral systems. My research interests broadly lie in the theory and applications of market design and in optimization problems with societal impact.
 
 You can find a copy of my CV [here](uploads/CV.pdf) *(last update: September 2022)*.
