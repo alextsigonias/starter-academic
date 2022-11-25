@@ -1,5 +1,5 @@
 ---
-title: "Iterative Combinatorial Auctions: An Improved Approach using
+title: "Preference Elicitation in Combinatorial Domains: An Improved Approach using
 Reinforcement Learning"
 
 # Authors
