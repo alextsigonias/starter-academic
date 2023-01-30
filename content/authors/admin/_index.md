@@ -18,9 +18,9 @@ bio: My research interests include mechanism design, sequential decision-making,
 
 # Interests to show in About widget
 interests:
-- Mechanism Design
+- Algorithmic Mechanism Design
 - Sequential Decision-Making
-- Pricing and Optimal Stopping
+- Algorithms for Social Good
 
 # Education to show in About widget
 education:
@@ -75,9 +75,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral researcher at the [Department of Industrial Engineering](https://www.dii.uchile.cl/english/) of the University of Chile hosted by Prof. [José Correa](https://www.dii.uchile.cl/~jcorrea/). I am a member of the [Information and Computation in Market Design (ICMD)](https://sites.google.com/view/anilloicmd/home?authuser=0) team. I recently obtained my PhD from the [School of Computation, Information and Technology](https://www.cit.tum.de/en/cit/home/) of the [Technical University of Munich](https://www.tum.de/en/). At TUM I was advised by Prof. [Andreas S. Schulz](https://www.ot.mgt.tum.de/en/or/group/andreas-s-schulz/) and was a member of the interdisciplinary research group [Advanced Optimization in a Networked Economy (AdONE)](https://www.gs.tum.de/en/adone/start/) and the [Operations Research Group](https://www.ot.mgt.tum.de/en/or/home/). Before that, I received my Diploma from the National Technical University of Athens, where I was advised by Prof. [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/). During my PhD I had the chance to visit the [University of Chile](https://www.uchile.cl/english) and the [Sapienza University of Rome](https://www.uniroma1.it/en).
+I am a postdoctoral researcher at the [Department of Industrial Engineering](https://www.dii.uchile.cl/english/) of the University of Chile hosted by Prof. [José Correa](https://www.dii.uchile.cl/~jcorrea/). I am a member of the [Information and Computation in Market Design (ICMD)](https://sites.google.com/view/anilloicmd/home?authuser=0) team. I recently obtained my PhD from the [School of Computation, Information and Technology](https://www.cit.tum.de/en/cit/home/) of the [Technical University of Munich](https://www.tum.de/en/). At TUM, I was advised by Prof. [Andreas S. Schulz](https://www.ot.mgt.tum.de/en/or/group/andreas-s-schulz/) and was a member of the interdisciplinary research group [Advanced Optimization in a Networked Economy (AdONE)](https://www.gs.tum.de/en/adone/start/) and the [Operations Research Group](https://www.ot.mgt.tum.de/en/or/home/). Before that, I received my Diploma from the National Technical University of Athens, where I was advised by Prof. [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/). During my PhD, I had the chance to visit the [University of Chile](https://www.uchile.cl/english) and the [Sapienza University of Rome](https://www.uniroma1.it/en).
 
 
- My current research is mainly on algorithmic mechanism design and sequential decision-making, with a focus on prophet inequalities and secretary problems. Very recently, I also got interested in algorithmic aspects of electoral systems. My research interests broadly lie in the theory and applications of market design and in optimization problems with societal impact.
+ My current research is mainly on the design of algorithms and mechanisms for fair and efficient resource allocation. I also enjoy working on problems related to online decision-making and pricing, with a focus on prophet inequalities and secretary problems. To answer these questions, I use a set of tools from (theoretical) computer science, optimization, operations, and probability. My research interests broadly lie in the theory and applications of market design and in optimization problems with societal impact.
 
-You can find a copy of my CV [here](uploads/CV.pdf) *(last update: September 2022)*.
+You can find a copy of my CV [here](uploads/CV.pdf) *(last update: January 2023)*.

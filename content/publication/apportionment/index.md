@@ -1,20 +1,16 @@
 ---
-title: "The Secretary Problem with Independent Sampling"
+title: "Political Apportionment: Ex-ante Proportionality and Monotonicity Through the Lens of Linear Programming"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Javier Cembrano
 - José Correa
-- Andrés Cristi
-- Laurent Feuilloley
-- Tim Oosterwijk
+- Victor Verdugo
 - admin
 
-date: "2022-10-01T00:00:00Z"
-links:
-
-
+date: "2023-01-20T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -26,8 +22,8 @@ links:
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication:
-publication_short: Under Review after Major Revision, **Management Science**
+publication: Submitted
+publication_short: Submitted
 
 abstract:
 

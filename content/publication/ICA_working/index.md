@@ -7,10 +7,10 @@ Reinforcement Learning"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Eleni Batziou
-- admin
 - Giorgos Bouritsas
+- admin
 
-date: "2022-09-17T00:00:00Z"
+date: "2022-10-10T00:00:00Z"
 links:
 
 
@@ -25,8 +25,8 @@ links:
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication:
-publication_short: Working paper
+publication: Submitted
+publication_short: Submitted
 abstract:
 
 # Summary. An optional shortened abstract.
