@@ -11,7 +11,7 @@ authors:
 - Yifeng Teng
 - admin
 
-date: "2023-01-20T00:00:00Z"
+date: "2023-05-02T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -20,11 +20,11 @@ date: "2023-01-20T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted
-publication_short: Submitted
+publication: To appear in the  *24th Conference on Economics and Computation* **(EC '23)**
+publication_short: To appear in the  *24th Conference on Economics and Computation* **(EC '23)**
 
 abstract:
 

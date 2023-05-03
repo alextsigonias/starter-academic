@@ -22,8 +22,8 @@ date: "2023-01-20T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted
-publication_short: Submitted
+publication: Working paper
+publication_short: Working paper
 
 abstract:
 

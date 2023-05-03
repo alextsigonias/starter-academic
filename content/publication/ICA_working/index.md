@@ -10,7 +10,7 @@ authors:
 - Giorgos Bouritsas
 - admin
 
-date: "2022-10-10T00:00:00Z"
+date: "2023-05-01T00:00:00Z"
 links:
 
 
@@ -25,8 +25,8 @@ links:
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted
-publication_short: Submitted
+publication: Working paper
+publication_short: Working paper
 abstract:
 
 # Summary. An optional shortened abstract.
