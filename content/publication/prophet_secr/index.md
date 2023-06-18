@@ -12,6 +12,9 @@ authors:
 - admin
 
 date: "2023-05-02T00:00:00Z"
+links:
+   - name: arXiv
+     url: https://arxiv.org/abs/2305.11144
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"

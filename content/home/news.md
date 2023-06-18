@@ -17,6 +17,8 @@ subtitle:
   #columns: '1'
 ---
 
+* **[May 2023]** I just started a research visit at Google Zurich hosted by [Paul Dütting](https://paulduetting.com/)! I will be here for two months working on exciting algorithmic questions.
+
 * **[May 2023]** Our paper on the Prophet Secretary problem with Paul, Evangelia, Rojin, and Yifeng has been accepted to EC '23! We will post the full paper very soon on arXiv.
 
 * **[August 2022]** I completed my PhD at TU Munich. Next, I will be moving to the University of Chile, where I will do a one-year postdoc working with Prof. [José Correa](https://www.dii.uchile.cl/~jcorrea/) and other members of the [ICMD team](https://sites.google.com/view/anilloicmd/home?authuser=0)!

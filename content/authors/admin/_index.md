@@ -83,4 +83,4 @@ I am a postdoctoral researcher at the [Department of Industrial Engineering](htt
 
 You can find a copy of my CV [here](uploads/CV.pdf) *(last update: May 2023)*.
 
-**I am on the job market looking for research/applied scientist or postdoc positions in industry. If you feel I could be a good fit for your company/team, please reach out!**
+[//]: # (**I am on the job market looking for research/applied scientist or postdoc positions in industry. If you feel I could be a good fit for your company/team, please reach out!**)
