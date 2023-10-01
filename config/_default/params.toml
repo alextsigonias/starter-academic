@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
- address = {street = "Department of Industrial Engineering, Universidad de Chile, República 701", city = "Santiago", region = "Chile", postcode = "", country = "Chile", country_code = ""}
+ address = {street = "European Central Bank, Sonnenmannstr. 20, 60314", city = "Frankfurt am Main", region = "Germany", postcode = "", country = "Germany", country_code = ""}
 
 
 # Geographic coordinates

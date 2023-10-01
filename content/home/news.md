@@ -16,6 +16,9 @@ subtitle:
   # Choose how many columns the section has. Valid values: 1 or 2.
   #columns: '1'
 ---
+* **[September 2023]** Our paper with Tomer, Stefano, Rebecca, and Matteo has been accepted to WINE 2023!
+
+* **[July 2023]** I just started a new position at the European Central Bank! I will be here for the forthcoming months working on improving the ECB's communication with the general public using a variety of data-driven approaches.
 
 * **[May 2023]** I just started a research visit at Google Zurich hosted by [Paul Dütting](https://paulduetting.com/)! I will be here for two months working on exciting algorithmic questions.
 
@@ -34,4 +37,4 @@ subtitle:
 
 * **[October 2021]** I will (virtually) present our work on [The Secretary Problem with Independent Sampling](https://arxiv.org/abs/2011.07869) at the INFORMS Annual Meeting (VTA21, 26/10 at 6AM PT).
 
-* **[September 2021]** I attended the [European Summer School](https://sites.google.com/a/diag.uniroma1.it/algadimar/european-summer-school-september-6-10-2021) on Learning in Games, Markets, and Online Decision Making.
+[//]: # (* **[September 2021]** I attended the [European Summer School](https://sites.google.com/a/diag.uniroma1.it/algadimar/european-summer-school-september-6-10-2021) on Learning in Games, Markets, and Online Decision Making.)

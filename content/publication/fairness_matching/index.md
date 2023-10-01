@@ -1,20 +1,17 @@
 ---
-title: "The Secretary Problem with Independent Sampling"
+title: "Online Policies for Content Recommendation with Fairness Constraints"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - José Correa
-- Andrés Cristi
-- Laurent Feuilloley
-- Tim Oosterwijk
+- Émile Naquin
+- Nicolás Stier-Moses
 - admin
+- Victor Verdugo
 
 date: "2023-09-01T00:00:00Z"
-links:
-
-
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -23,11 +20,11 @@ links:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication:
-publication_short: Minor Revision, **Management Science**
+publication: Working paper
+publication_short: Working paper
 
 abstract:
 

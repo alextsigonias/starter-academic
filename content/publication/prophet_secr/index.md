@@ -15,6 +15,10 @@ date: "2023-05-02T00:00:00Z"
 links:
    - name: arXiv
      url: https://arxiv.org/abs/2305.11144
+   - name: DOI
+     url: https://dl.acm.org/doi/abs/10.1145/3580507.3597736
+   - name: poster
+     url: uploads/Poster_ALGA23.pdf
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -26,8 +30,8 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in the  *24th Conference on Economics and Computation* **(EC '23)**
-publication_short: To appear in the  *24th Conference on Economics and Computation* **(EC '23)**
+publication: In the proceedings of the *24th Conference on Economics and Computation* **(EC '23)**
+publication_short: In the proceedings of the *24th Conference on Economics and Computation* **(EC '23)**
 
 abstract:
 

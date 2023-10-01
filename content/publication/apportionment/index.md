@@ -1,5 +1,5 @@
 ---
-title: "Political Apportionment: Ex-ante Proportionality and Monotonicity Through the Lens of Linear Programming"
+title: "Political Apportionment: The Power of Divisor Methods and Randomization"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,10 +7,11 @@ title: "Political Apportionment: Ex-ante Proportionality and Monotonicity Throug
 authors:
 - Javier Cembrano
 - José Correa
-- Victor Verdugo
+- Ulrike Schmidt-Kraepelin
 - admin
+- Victor Verdugo
 
-date: "2023-01-20T00:00:00Z"
+date: "2023-09-20T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -22,8 +23,8 @@ date: "2023-01-20T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Working paper
-publication_short: Working paper
+publication: In preparation for submission
+publication_short: In preparation for submission
 
 abstract:
 
