@@ -11,9 +11,10 @@ authors:
 - Tim Oosterwijk
 - admin
 
-date: "2023-09-01T00:00:00Z"
+date: "2024-06-17T00:00:00Z"
 links:
-
+- name: DOI
+  url: https://pubsonline.informs.org/doi/10.1287/mnsc.2021.01580
 
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +28,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication:
-publication_short: Minor Revision, **Management Science**
+publication_short: Articles in Advance, **Management Science**
 
 abstract:
 

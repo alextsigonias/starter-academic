@@ -28,7 +28,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ACM Transactions on Economics and Computation **(ACM TEAC)**, Forthcoming
-publication_short: Forthcoming, *ACM Transactions on Economics and Computation* **(ACM TEAC)**
+publication_short: ACM Transactions on Economics and Computation **(ACM TEAC)**
 
 abstract:
 

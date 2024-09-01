@@ -6,7 +6,7 @@ title: Alexandros Tsigonias-Dimitriadis
 superuser: true
 
 # Role/position/tagline
-role: PhD trainee, [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)
+role: Graduate Programme Participant, [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -14,19 +14,19 @@ role: PhD trainee, [European Central Bank](https://www.ecb.europa.eu/home/html/i
 #  url: https://www.tum.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mechanism design, sequential decision-making, and algorithmic game theory.
+bio: Data scientist and researcher with background in computer science and applied mathematics.
 
 # Interests to show in About widget
 interests:
 - Economics and Computation
-- Online Decision-Making in Resource Allocation
-- Algorithmic Mechanism Design 
-- Pricing and Revenue Management
+- Operations Research & Optimization
+- AI & Machine Learning
+- Computational Social Science
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Operations Research
+  - course: PhD in Mathematics
     institution: Technical University of Munich
     year: 2022
   - course: Diploma in Electrical and Computer Engineering
@@ -75,11 +75,14 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am currently a PhD trainee at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). Until very recently, I was a postdoctoral researcher at the [Department of Industrial Engineering](https://www.dii.uchile.cl/english/) of the University of Chile hosted by Prof. [José Correa](https://www.dii.uchile.cl/~jcorrea/). I was a member of the [Information and Computation in Market Design (ICMD)](https://sites.google.com/view/anilloicmd/home?authuser=0) team. I obtained my PhD from the [School of Computation, Information and Technology](https://www.cit.tum.de/en/cit/home/) of the [Technical University of Munich](https://www.tum.de/en/). At TUM, I was advised by Prof. [Andreas S. Schulz](https://www.ot.mgt.tum.de/en/or/group/andreas-s-schulz/) and was a member of the interdisciplinary research group [Advanced Optimization in a Networked Economy (AdONE)](https://www.gs.tum.de/en/adone/start/) and the [Operations Research Group](https://www.ot.mgt.tum.de/en/or/home/). Before that, I received my Diploma from the National Technical University of Athens, where I was advised by Prof. [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/). During my PhD and postdoc, I had the opportunity to spend some time at [Google Zurich](https://research.google/locations/zurich/) and the [Sapienza University of Rome](https://www.uniroma1.it/en).
+I am currently a Graduate Programme Participant at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). This is a selective programme for recent (PhD) graduates, that involves two one-year assignments in two business areas and submitting a research paper at the end of the programme for evaluation. My first-year allocation is in Risk Management and my second-year in Information Systems.
 
+Before coming to the ECB, I was a postdoctoral researcher at the [Department of Industrial Engineering](https://www.dii.uchile.cl/english/) of the University of Chile hosted by Prof. [José Correa](https://www.dii.uchile.cl/~jcorrea/). I obtained my PhD from the Department of Mathematics of the [ TUM School of Computation, Information and Technology](https://www.cit.tum.de/en/cit/home/). At TU Munich, I was advised by Prof. [Andreas S. Schulz](https://www.ot.mgt.tum.de/en/or/group/andreas-s-schulz/) and was a member of the interdisciplinary research group [Advanced Optimization in a Networked Economy (AdONE)](https://www.gs.tum.de/en/adone/start/) and the [Operations Research Group](https://www.ot.mgt.tum.de/en/or/home/). During my PhD and postdoc, I had the opportunity to spend some time at [Google Research Zurich](https://research.google/locations/zurich/) and the [Sapienza University of Rome](https://www.uniroma1.it/en). I received my Diploma (BSc and MEng equivalent) in [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the National Technical University of Athens, where I was advised by Prof. [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/).
 
- My main research topic recently has been on the design of algorithms and mechanisms for fair and efficient resource allocation with applications in pricing, recommender systems, apportionment, and generally complex scenarios arising in (online) markets and platforms. I have a background and extensive training in both Computer Science and Operations Research. In my research, I have used a broad set of tools from algorithms, economics, operations, mechanism design, machine learning, and optimization. I enjoy developing algorithms with strong theoretical guarantees and demonstrating their applicability via experimentation on real-world data whenever possible. Apart from my research expertise, I have a strong interest in adjacent fields such as econometrics and causal inference. I love broadening my knowledge and exploring new topics and I aspire to work on projects, new technologies, and products with societal impact.
+My research during my PhD and postdoc revolved mainly around the design of algorithms and mechanisms for fair and efficient resource allocation with applications in pricing, recommender systems, apportionment, and generally complex scenarios arising in (online) markets and platforms. To study these problems, I have used a broad set of tools from algorithms, economics, operations, mechanism design, machine learning, and optimization. During my first year at the ECB, I also started working on topics related to computational social science and central banking communication, using natural language processing and econometric methods.
 
-You can find a copy of my CV [here](uploads/CV.pdf) *(last update: September 2023)*.
+I'm still trying to allocate a fraction of my time to research. This page serves mainly for posting updates related to my research papers, and keeping all the material related to them so that they can be accessed easily.
+
+You can find a copy of my CV [here](uploads/CV.pdf) *(last update: August 2024)*.
 
 [//]: # (**I am on the job market looking for research/applied scientist or postdoc positions in industry. If you feel I could be a good fit for your company/team, please reach out!**)

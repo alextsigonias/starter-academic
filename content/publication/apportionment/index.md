@@ -1,5 +1,5 @@
 ---
-title: "Political Apportionment: The Power of Divisor Methods and Randomization"
+title: "New Combinatorial Insights for Monotone Apportionment"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,7 +11,7 @@ authors:
 - admin
 - Victor Verdugo
 
-date: "2023-09-20T00:00:00Z"
+date: "2024-07-10T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -23,8 +23,8 @@ date: "2023-09-20T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In preparation for submission
-publication_short: In preparation for submission
+publication: Submitted
+publication_short: Submitted
 
 abstract:
 

@@ -16,9 +16,13 @@ subtitle:
   # Choose how many columns the section has. Valid values: 1 or 2.
   #columns: '1'
 ---
+* **[September 2024]** I just started the ECB Graduate Programme! 
+
+* **[June 2024]** The journal version of our paper "The Secretary Problem with Independent Sampling" has been published in Management Science! You can find it [here](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.01580). A big thank you to my co-authors for this wonderful collaboration!
+
 * **[September 2023]** Our paper with Tomer, Stefano, Rebecca, and Matteo has been accepted to WINE 2023!
 
-* **[July 2023]** I just started a new position at the European Central Bank! I will be here for the forthcoming months working on improving the ECB's communication with the general public using a variety of data-driven approaches.
+* **[July 2023]** I just started a new position at the European Central Bank!
 
 * **[May 2023]** I just started a research visit at Google Zurich hosted by [Paul Dütting](https://paulduetting.com/)! I will be here for two months working on exciting algorithmic questions.
 

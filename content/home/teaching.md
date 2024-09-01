@@ -32,5 +32,6 @@ I have been a teaching assistant for the following courses:
 
 I have co-supervised Master theses on the following topics:
 
-* "Iterative Combinatorial Auctions: Improved Running Time via Machine Learning", 2021
-* "Experimental Evaluation of Robust Revenue-Maximizing Auctions", 2021
+* Unified Voice or Cacophony? A Discordance Index of the European Central Bank Governing Council Members, ECB & Barcelona School of Economics 
+* Iterative Combinatorial Auctions: Improved Running Time via Machine Learning, TUM
+* Experimental Evaluation of Robust Revenue-Maximizing Auctions, TUM

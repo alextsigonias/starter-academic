@@ -11,7 +11,7 @@ authors:
 - admin
 - Victor Verdugo
 
-date: "2023-09-01T00:00:00Z"
+date: "2024-04-10T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -23,8 +23,8 @@ date: "2023-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Working paper
-publication_short: Working paper
+publication: In preparation for submission
+publication_short: In preparation for submission
 
 abstract:
 

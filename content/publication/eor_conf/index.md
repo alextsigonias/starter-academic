@@ -11,7 +11,7 @@ authors:
 - Matteo Russo
 - admin
 
-date: "2023-09-25T00:00:00Z"
+date: "2023-12-10T00:00:00Z"
 links:
    - name: arXiv
      url: https://arxiv.org/abs/2207.03361
@@ -28,8 +28,8 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in the *19th Conference on Web and Internet Economics* **(WINE '23)**
-publication_short: To appear in the *19th Conference on Web and Internet Economics* **(WINE '23)**
+publication: Extended abstract in the *19th Conference on Web and Internet Economics* **(WINE '23)**
+publication_short: Extended abstract in the *19th Conference on Web and Internet Economics* **(WINE '23)**
 
 abstract:
 
