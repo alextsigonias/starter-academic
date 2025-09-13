@@ -11,7 +11,7 @@ authors:
 - Yifeng Teng
 - admin
 
-date: "2024-08-15T00:00:00Z"
+date: "2025-06-15T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -23,8 +23,8 @@ date: "2024-08-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Minor revision, **Mathematics of Operations Research**
-publication_short: Minor revision, **Mathematics of Operations Research**
+publication: Accepted, **Mathematics of Operations Research**
+publication_short: Accepted, **Mathematics of Operations Research**
 
 abstract:
 

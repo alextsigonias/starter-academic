@@ -75,7 +75,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am currently a Graduate Programme Participant at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). This is a selective programme for recent (PhD) graduates, that involves two one-year assignments in two business areas and submitting a research paper at the end of the programme for evaluation. My first-year allocation is in Risk Management and my second-year in Information Systems.
+I am currently a Graduate Programme Participant at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). This is a selective programme for recent (PhD) graduates, which involves two one-year assignments in two different business areas and submitting a paper at the end of the programme for evaluation. My first-year allocation was in Risk Management. I am spending my second year in Information Systems, contributing to the development of AI/ML-driven applications for Banking Supervision.
 
 Before coming to the ECB, I was a postdoctoral researcher at the [Department of Industrial Engineering](https://www.dii.uchile.cl/english/) of the University of Chile hosted by Prof. [José Correa](https://www.dii.uchile.cl/~jcorrea/). I obtained my PhD from the Department of Mathematics of the [ TUM School of Computation, Information and Technology](https://www.cit.tum.de/en/cit/home/). At TU Munich, I was advised by Prof. [Andreas S. Schulz](https://www.ot.mgt.tum.de/en/or/group/andreas-s-schulz/) and was a member of the interdisciplinary research group [Advanced Optimization in a Networked Economy (AdONE)](https://www.gs.tum.de/en/adone/start/) and the [Operations Research Group](https://www.ot.mgt.tum.de/en/or/home/). During my PhD and postdoc, I had the opportunity to spend some time at [Google Research Zurich](https://research.google/locations/zurich/) and the [Sapienza University of Rome](https://www.uniroma1.it/en). I received my Diploma (BSc and MEng equivalent) in [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the National Technical University of Athens, where I was advised by Prof. [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/).
 
@@ -83,6 +83,4 @@ My research during my PhD and postdoc revolved mainly around the design of algor
 
 I'm still trying to allocate a fraction of my time to research. This page serves mainly for posting updates related to my research papers, and keeping all the material related to them so that they can be accessed easily.
 
-You can find a copy of my CV [here](uploads/CV.pdf) *(last update: August 2024)*.
-
-[//]: # (**I am on the job market looking for research/applied scientist or postdoc positions in industry. If you feel I could be a good fit for your company/team, please reach out!**)
+You can find a copy of my CV [here](uploads/CV.pdf) *(last update: September 2025)*.

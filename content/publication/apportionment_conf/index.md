@@ -11,7 +11,13 @@ authors:
 - admin
 - Victor Verdugo
 
-date: "2024-07-10T00:00:00Z"
+date: "2025-01-10T00:00:00Z"
+links:
+ - name: arXiv
+   url: https://arxiv.org/abs/2410.23869
+ - name: MPI article
+   url: https://www.mpi-inf.mpg.de/news/detail/how-computer-scientists-study-the-allocation-of-parliamentary-seats
+doi: "10.1137/1.9781611978322.39"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -20,11 +26,11 @@ date: "2024-07-10T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted
-publication_short: Submitted
+publication: In the proceedings of the *2025 ACM-SIAM Symposium on Discrete Algorithms* **(SODA '25)**
+publication_short: In the proceedings of the *2025 ACM-SIAM Symposium on Discrete Algorithms* **(SODA '25)**
 
 abstract:
 

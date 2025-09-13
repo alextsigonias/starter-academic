@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Working Papers
+title: Working Papers & Manuscripts
 subtitle: ''
 
 content:
